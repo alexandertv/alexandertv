@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandertv
 - 👀 I’m interested in Robotic | FPGA | Microcentroller | Reinforcement Learning | Distributed Systems
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Deep Learning and NLP
 - 💞️ I’m looking to collaborate on autonomous systems
 - 📫 GitHub
 
